@@ -1,0 +1,36 @@
+html,body {
+    background-color: #265175;
+}    
+    
+navbar {
+        background-color: #336fa0;
+}
+
+.navbar-brand  {
+    font-weight: 900;
+}
+
+p {
+    color: #ffffff;
+}
+
+.display-6 {
+   /* color: #139316; */
+   color: #ffdb4f;
+}
+
+.container {
+    margin-top: 60px;
+}
+
+.title {
+    font-weight: 900;
+   /* color: #139316; */
+    color: #ffdb4f;
+    margin-top: 100px;
+
+}
+
+.meta_data {
+    color: #139316;
+}
